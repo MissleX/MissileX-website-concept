@@ -1,30 +1,40 @@
-# MissileX website concept
+# MissleX
+## 🛰️  Aerospace & Defense
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+MissileX is Bangladesh’s first grassroots defense tech initiative, focused on developing indigenous **air defense**, **stealth drones**, and **electronic warfare** systems.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mohammad-tayefs-projects/v0-missile-x-website-concept)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/0sCGb9SqDtI)
+> 🚀 “We aim to build Bangladesh’s Iron Dome — powered by local talent, open R&D, and mission-first engineering.”
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🔧 Current Focus Areas
 
-## Deployment
+- 🛩️ **Stealth Attack Drones** – UAVs with AI navigation and precision strike ability
+- 📡 **Radar Jamming Systems** – SDR-based ECM tools for real-world battlefield tests
+- 🛡️ **Mini Air Defense Systems** – Scalable S-400-style detection and response tech
 
-Your project is live at:
+---
 
-**[https://vercel.com/mohammad-tayefs-projects/v0-missile-x-website-concept](https://vercel.com/mohammad-tayefs-projects/v0-missile-x-website-concept)**
+## 📂 Repositories
 
-## Build your app
+| Project | Description |
+|--------|-------------|
+| `stealth-attack-drone` | CAD, AI flight code, and mission simulations |
+| `radar-jamming-suite` | GNURadio-based jammers, spoofers, and analyzers |
+| `mini-air-defense-system` | Radar detection + AI tracking + counterstrike logic |
+| `docs` | Research papers, tech briefs, and tactical notes |
+| `website` | Code for MissileX’s official landing page |
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/0sCGb9SqDtI](https://v0.dev/chat/projects/0sCGb9SqDtI)**
+## 🤝 Join the Mission
 
-## How It Works
+We're building a national defense tech force — student-led, military-friendly, and future-ready.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+📧 Email: [missilex.bd@gmail.com](mailto:missilex.bd@gmail.com)  
+🌐 Website: [Coming Soon]  
+📍 HQ: Chittagong, Bangladesh
+
+---
+
+### 🇧🇩 "We don't copy the West — we build for Bangladesh."
